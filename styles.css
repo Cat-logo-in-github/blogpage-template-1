@@ -20,11 +20,12 @@ body {
 }
 
 @keyframes bounce {
-    0% { top: 0; right: 0; }
-    25% { top: 50%; right: 50%; }
-    50% { top: 100%; right: 0; }
-    75% { top: 50%; right: 50%; }
-    100% { top: 0; right: 0; }
+    0% { top: 0; right: 0%; }
+    20% { top: 50%; right: 10%; }
+    40% { top: 100%; right: 20%; }
+    60% { top: 50%; right: 30%; }
+    80% { top: 0; right: 40%; }
+    100% { top: 0; right: 50%; }
 }
 
 .hidden {
