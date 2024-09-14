@@ -31,13 +31,13 @@ body {
     40% { top: 50%; right: 40%; }
     45% { top: 60%; right: 45%; }
     50% { top: 70%; right: 50%; }
-    55% { top: 80%; right: 55%; }
-    60% { top: 90%; right: 60%; }
-    65% { top: 70%; right: 65%; width: 110%; heigth: 110%;}
-    70% { top: 50%; right: 70%; width: 130%; heigth: 130%;}
-    75% { top: 30%; right: 75%; width: 150%; heigth: 150%;}
-    80% { top: 0; right: 80%; width: 170%; heigth: 170%;}
-    100% { top: 0; right: 99%; width: 190%; heigth: 190%;}
+    55% { top: 80%; right: 53%; }
+    60% { top: 90%; right: 54%; }
+    65% { top: 70%; right: 55%;}
+    70% { top: 50%; right: 55%;}
+    75% { top: 30%; right: 60%; width: 52px; heigth: 52px;}
+    80% { top: 0; right: 65%; width: 55px; heigth: 55px;}
+    100% { top: 0; right: 70%; width: 60px; heigth: 60px;}
 }
 
 .hidden {
